@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+pillow
+urllib3
+lxml
+fastapi
+
+
